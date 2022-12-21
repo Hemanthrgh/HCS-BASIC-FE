@@ -1,0 +1,10 @@
+@media screen and (min-width: 900px) {
+    footer{
+      position: sticky;
+bottom: 0;
+z-index: 1020;
+    }
+  .info{
+    margin-left: 1.65em; display:flex; justify-content: space-between;
+  }  
+}
